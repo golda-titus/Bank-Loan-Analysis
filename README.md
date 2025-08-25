@@ -10,21 +10,21 @@ helping financial institutions evaluate loan quality and customer profiles.
 
 ---
 
-## 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 - **SQL** (Data extraction, cleaning, KPI calculation)
 - **Power BI** (Data visualization and dashboard creation)
 - **CSV Dataset** (Raw loan data)
 
 ---
 
-## 📂 Repository Structure
+### 📂 Repository Structure
 - `data/` → Contains the raw dataset (`financial_loan.csv`)  
 - `sql/` → SQL scripts for queries and analysis  
 - `reports/` → Documentation (`.docx`) and interactive Power BI dashboard (`.pbix`)  
 
 ---
 
-## 🔑 Key Insights
+### 🔑 Key Insights
 1. **Loan KPIs**
    - Total Loan Applications  
    - Disbursed Loan Amounts  
@@ -41,10 +41,10 @@ helping financial institutions evaluate loan quality and customer profiles.
   - State-wise, Term-wise, Purpose-wise, and Home Ownership breakdowns  
 
 4. **Power BI Dashboard**
- ## 🔹 Summary 
+ ### 🔹 Summary 
    - Interactive visuals to explore high level KPI's for loan applications, disbursements, repayments, loan quality, and trends. 
  <img width="1316" height="734" alt="Summary" src="https://github.com/user-attachments/assets/44272663-d0aa-4e98-a4d6-90d7a1d9d97d" />
 
-## 🔹 Overview 
+### 🔹 Overview 
    - Detailed breakdown of loan applications by month, state, term, purpose, employee length, and home ownership. 
  <img width="1310" height="735" alt="Overview" src="https://github.com/user-attachments/assets/10ba5446-0a5f-4307-a47c-d06805c3618c" />
