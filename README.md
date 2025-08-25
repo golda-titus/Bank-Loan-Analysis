@@ -1,9 +1,9 @@
 # Bank-Loan-Analysis
 SQL and Power BI analysis of bank loan data with KPIs, trends, and loan quality insights.
 
-# 📊 Bank Loan Analysis Project Summary
+## 📊 Bank Loan Analysis Project Summary
 
-## 📌 Project Overview
+### 📌 Project Overview
 This project analyzes **bank loan applications and performance metrics** using **SQL and Power BI**.  
 The goal is to extract insights about loan disbursements, repayments, interest rates, and risk distribution,  
 helping financial institutions evaluate loan quality and customer profiles.
