@@ -37,13 +37,14 @@ helping financial institutions evaluate loan quality and customer profiles.
 
 3. **Trend Analysis**
    - Month-over-Month performance  
-   - State-wise, Term-wise, Purpose-wise, and Home Ownership breakdowns  
+
+  - State-wise, Term-wise, Purpose-wise, and Home Ownership breakdowns  
 
 4. **Power BI Dashboard**
-   - Interactive visuals to explore disbursements, repayments, loan quality, and trends  
+ ## 🔹 Summary 
+   - Interactive visuals to explore high level KPI's for loan applications, disbursements, repayments, loan quality, and trends. 
+ <img width="1316" height="734" alt="Summary" src="https://github.com/user-attachments/assets/44272663-d0aa-4e98-a4d6-90d7a1d9d97d" />
 
-<img width="1316" height="734" alt="Screenshot 2025-08-25 124610" src="https://github.com/user-attachments/assets/8c074323-17ad-4cb5-8634-fc9ec12d8218" />
-
-## 📸 Sample Dashboard Preview
-<img width="1310" height="735" alt="Screenshot 2025-08-25 125222" src="https://github.com/user-attachments/assets/e061cc51-c691-45e3-821a-c06d8b6b6ec2" />
-
+## 🔹 Overview 
+   - Detailed breakdown of loan applications by month, state, term, purpose, employee length, and home ownership. 
+ <img width="1310" height="735" alt="Overview" src="https://github.com/user-attachments/assets/10ba5446-0a5f-4307-a47c-d06805c3618c" />
