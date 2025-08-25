@@ -1,4 +1,4 @@
- Bank-Loan-Analysis
+# Bank-Loan-Analysis
 SQL and Power BI analysis of bank loan data with KPIs, trends, and loan quality insights.
 
 # 📊 Bank Loan Analysis Project Summary
